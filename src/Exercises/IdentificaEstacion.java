@@ -1,5 +1,5 @@
 // En este ejercicio el programa devolverá la estación del año de acuerdo al número que ingresa el usuario (el número representa el mes)
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 

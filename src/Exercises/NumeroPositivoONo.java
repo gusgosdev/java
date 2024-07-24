@@ -1,5 +1,5 @@
 // En este ejercicio revisaremos si un número es positivo o no
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 

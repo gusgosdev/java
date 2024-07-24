@@ -1,5 +1,5 @@
 // En este ejercicio el programa responderá de acuerdo a las opciones programadas
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 

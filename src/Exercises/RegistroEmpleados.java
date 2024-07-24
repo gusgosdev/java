@@ -1,5 +1,5 @@
 // Un ejercicio más sobre entrada de datos del usuario y mostralo en la consola
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 

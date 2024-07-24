@@ -1,5 +1,5 @@
 // En este ejercicio el programa sumará los valores entre un número a otro
-package exercises;
+package Exercises;
 
 public class SumaAcumulativa {
     public static void main(String[] args) {

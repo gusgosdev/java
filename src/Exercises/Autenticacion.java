@@ -1,5 +1,5 @@
 // En este ejercicio verificaremos que el usuario y contraseña de un usuario sean correctas
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 

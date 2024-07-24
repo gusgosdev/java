@@ -1,5 +1,5 @@
 // Programa para calcular el area de un rectangulo
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 

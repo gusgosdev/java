@@ -1,5 +1,5 @@
 // En este ejercicio el usuario ingresará 2 números y el programa analizará el mayor
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // En este ejercicio realizaremos un cajero automático, que nos va a permitir depositar, retirar y ver nuestro saldo
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // En este ejercicio haremos un programa para saber si un valor se encuentra dentro de un rango definido
-package exercises;
+package Exercises;
 
 import java.util.Scanner;
 
