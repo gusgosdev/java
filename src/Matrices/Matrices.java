@@ -24,5 +24,13 @@ public class Matrices {
         matriz[1][2] = 120;
 
         System.out.println(matriz[1][2]);
+
+        // Sintaxis simplificada de matriz
+        var otraMatriz = new int[][]{{100, 200, 300},{400, 500, 600}};
+        for (int ren = 0; ren < otraMatriz.length; ren++) {
+            for (int col = 0; col < otraMatriz[ren].length; col++) {
+                System.out.println("Valor[" + ren + "][" + col + "] = " + otraMatriz[ren][col]);
+            }
+        }
     }
 }
