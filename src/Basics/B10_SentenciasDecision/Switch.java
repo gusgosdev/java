@@ -1,4 +1,4 @@
-package Basics.B07_SentenciasDecision;
+package Basics.B10_SentenciasDecision;
 
 public class Switch {
     public static void main(String[] args) {

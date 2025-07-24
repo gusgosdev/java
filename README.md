@@ -1,6 +1,9 @@
 # Repositorio de Ejercicios y Conceptos de Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java logo" width="40" height="40"/>  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-***
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-3f3f3f?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github&logoColor=white)
+
 Este repositorio llamado **Java** contiene una colección de ejercicios prácticos, apuntes y conceptos de Java que he ido aprendiendo, aquí encontrarás ejemplos prácticos que te pueden ayudar a reforzar tus conocimientos.  
 Iré actualizando el repositorio mientras sigo aprendiendo.
 

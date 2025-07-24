@@ -1,4 +1,4 @@
-package Basics.B05_EntradaDeDatos;
+package Basics.B07_EntradaDeDatos;
 import java.util.Scanner;
 
 // Insertar datos por consola

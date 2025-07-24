@@ -1,4 +1,4 @@
-package Basics.B07_SentenciasDecision;
+package Basics.B10_SentenciasDecision;
 
 public class IfElse {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 # Comentarios
 
-- Son partes del código que no se ejecutan.
-- Sirven para dejar indicaciones cuando se trabaja en grupo.
+- Son partes del código que no se ejecutan
+- Se usan para breves anotaciones o para explicar el código cuando se trabaja en grupo
 
 De una línea:  
 `// Comentario de una línea`
