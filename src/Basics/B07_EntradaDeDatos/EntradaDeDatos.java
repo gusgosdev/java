@@ -4,10 +4,19 @@ import java.util.Scanner;
 // Insertar datos por consola
 public class EntradaDeDatos {
     public static void main(String[] args) {
-        var consola = new Scanner(System.in);
-        System.out.print("Ingresa tu nombre: ");
-        var nombre = consola.nextLine();
+        // Clase que permite el ingreso por teclado
+        Scanner consola = new Scanner(System.in);
 
-        System.out.println("Tu nombre es: " + nombre);
+        // Pedir el dato al usuario
+        System.out.print("Ingresa tu nombre: ");
+        String nombre = consola.nextLine();
+
+        // Pedir el dato al usuario
+        System.out.print("Ingresa tu edad: ");
+        int edad = consola.nextInt();
+
+        // Mostrar los datos
+        System.out.println("---------------------------------------");
+        System.out.println("Tu nombre es " + nombre + " y tienes " + edad + " años.");
     }
 }
