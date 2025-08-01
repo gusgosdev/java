@@ -1,6 +1,6 @@
 package Basics.B06_Conversiones;
 
-public class Conversiones {
+public class StringToPrimitivo {
     public static void main(String[] args) {
         //conversion de String a char
         String texto = "hola";

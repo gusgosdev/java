@@ -5,7 +5,7 @@ package Exercises;
 
 import java.util.Scanner;
 
-public class E02_TiposDatosDinamico {
+public class E02_OracionDatosDinamico {
     public static void main(String[] args) {
         Scanner consola = new Scanner(System.in);
 

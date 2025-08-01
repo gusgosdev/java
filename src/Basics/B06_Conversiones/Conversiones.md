@@ -1,6 +1,6 @@
 # Conversiones
 
-- Es la transformación de un tipo de dato a otro
+Es la transformación de un tipo de dato a otro
 
 ### De Strings a Primitivos
 | Tipo Primitivo | Conversión desde String             | Ejemplo Java                          | Notas                                                                                                   |

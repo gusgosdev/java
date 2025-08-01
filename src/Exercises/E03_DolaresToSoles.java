@@ -18,7 +18,9 @@ public class E03_DolaresToSoles {
         String mensaje = "$" + montoEnDolares + " serían S/." + montoEnSoles;
 
         // Mostrar en consola
-        System.out.println("Precio dólar: " + dolar);
+        System.out.println("Precio dólar: S/." + dolar);
+        System.out.println("Monto a cambiar: $" + montoEnDolares);
+        System.out.println("-----------------------");
         System.out.println(mensaje);
     }
 }

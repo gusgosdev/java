@@ -3,7 +3,7 @@
 
 package Exercises;
 
-public class E02_TiposDatos {
+public class E02_OracionDatos {
     public static void main(String[] args) {
         // Variables con los datos
         String name = "Gustavo";

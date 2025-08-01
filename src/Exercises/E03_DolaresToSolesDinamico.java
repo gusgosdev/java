@@ -11,7 +11,7 @@ public class E03_DolaresToSolesDinamico {
 
         // Precio fijo (constante)
         final double dolar = 3.69;
-        System.out.println("Precio dólar: " + dolar);
+        System.out.println("Precio dólar: S/." + dolar);
         System.out.println("-----------------------------------");
 
         // Monto en dólares a cambiar

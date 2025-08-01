@@ -1,6 +1,6 @@
 # Operadores
 
-- Son símbolos especiales que se utilizan para realizar operaciones sobre variables y valores.
+Son símbolos especiales que se utilizan para realizar operaciones sobre variables y valores.
 
 ### Operadores de Asignación
 | Nombre              | Operador | Ejemplo  | Descripción                        |
