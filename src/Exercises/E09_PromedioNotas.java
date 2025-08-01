@@ -1,6 +1,6 @@
 // Exercise 09
 // Mostrar las calificaciones, cantidad y calcular su promedio.
-// Informar por consola si aprobó o no (promedio >= 13 es aprobatorio)
+// Informar por consola si aprobó o no (promedios iguales o mayores a 13 es aprobatorio)
 
 package Exercises;
 

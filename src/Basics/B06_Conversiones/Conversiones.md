@@ -12,7 +12,3 @@ Es la transformación de un tipo de dato a otro
 | `long`         | `Long.parseLong(str)`               | `long l = Long.parseLong("123456789");` | Acepta valores grandes, pero también puede lanzar excepción                                             |
 | `float`        | `Float.parseFloat(str)`             | `float f = Float.parseFloat("3.14");` | Menor precisión; acepta notación científica (e.g., "1e3")                                               |
 | `double`       | `Double.parseDouble(str)`           | `double d = Double.parseDouble("2.718");` | Mayor precisión que `float`                                                                             |
-
-
-
-
