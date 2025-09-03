@@ -1,0 +1,7 @@
+Hola desde Java NIO
+Este archivo fue creado con java NIO
+Es rápido, moderno y fácil de usar
+Nuevo contenido a agregar
+Sin borrar el contenido anterior
+Agregando más contenido
+Sin borrar el contenido anterior
