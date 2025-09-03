@@ -17,7 +17,7 @@ public class Main {
 
 ## Contenido
 - Ejercicios básicos: variables, condicionales, bucles, entre otros
-- POO: clases, objetos, herencia (próximamente)
+- POO: clases, objetos, herencia
 - Conceptos avanzados: colecciones, excepciones, streams (próximamente)
 - Notas y apuntes teóricos
 
