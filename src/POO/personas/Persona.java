@@ -1,4 +1,4 @@
-package POO;
+package POO.personas;
 
 public class Persona {
     // Atributos

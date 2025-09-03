@@ -1,4 +1,4 @@
-package POO;
+package POO.personas;
 
 public class Estudiante extends Persona{
     private String grado;
